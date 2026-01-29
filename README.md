@@ -41,3 +41,12 @@ This repository is designed for **Android developers**, **Compose learners**, an
 
 This project uses the **DummyJSON Users API**:
 
+---
+
+## 📖 Related Article
+
+For a detailed, beginner-friendly breakdown check out the full article on Medium:
+
+👉 [**Mastering Pagination in Jetpack Compose: Paging 3 vs snapshotFlow**](https://medium.com/@supsabhi/mastering-pagination-in-jetpack-compose-paging-3-vs-snapshotflow-8193410eb991)
+
+---
