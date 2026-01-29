@@ -77,10 +77,19 @@ dependencies {
     implementation(libs.androidx.datastore.preferences)
 
 
-    implementation(libs.ktor.client.android)
-    implementation(libs.ktor.client.serialization)
-    implementation(libs.kotlinx.serialization.json)
-    implementation(libs.ktor.client.logging.jvm)
+    implementation(libs.androidx.paging.runtime)
+    implementation(libs.androidx.paging.compose)
+
+    implementation(libs.coil.compose)
+
+
+    implementation(libs.ktor.client.core)
+    implementation(libs.ktor.client.android.v237)
+    implementation(libs.ktor.client.content.negotiation)
+    implementation(libs.ktor.serialization.kotlinx.json)
+    implementation(libs.kotlinx.serialization.json.v173)
+
+    implementation(libs.ktor.client.logging)
 
     implementation(libs.koin.android)
     implementation(libs.koin.androidx.compose)

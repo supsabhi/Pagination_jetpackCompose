@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "JetPackCompose_template"
+rootProject.name = "Pagination_JetpackCompose"
 include(":app")
  
